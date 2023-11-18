@@ -1,0 +1,43 @@
+{
+  "name": "My Portofolio",
+  "short_name": "BangZanx",
+  "icons": [{
+      "src": "img/bangozanx 72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/bangozanx 96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },{
+      "src": "img/bangozanx 128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },{
+      "src": "img/bangozanx 144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },{
+      "src": "img/bangozanx 152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },{
+      "src": "img/bangozanx 192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },{
+      "src": "img/bangozanx 382x384.png",
+      "sizes": "382x384",
+      "type": "image/png"
+    },{
+      "src": "img/bangozanx 512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white" 
+}
